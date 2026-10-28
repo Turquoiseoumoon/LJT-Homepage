@@ -10,7 +10,7 @@ on:
 
 # Allow one concurrent deployment
 concurrency:
-  group: "pages"
+  group: "jekyll-pages-deploy"
   cancel-in-progress: false
 
 permissions:
